@@ -29,6 +29,9 @@ class task2{
             System.out.print(" "+a[i]);
         }
         System.out.println();
+
+        // Array Operations Branch
+        // Finding second highest and second lowest elements
         //second highest and second lowest numbers
         System.out.println("Second highest number : "+a[5-1-1]);
         System.out.println("Second Lowest number : "+a[1]);
